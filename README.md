@@ -1,6 +1,6 @@
 <img src="img/triply.png" align="right" height="150">
 
-# Label Ontology
+# Label properties
 
 Term definitions for singular and plural label properties.
 
